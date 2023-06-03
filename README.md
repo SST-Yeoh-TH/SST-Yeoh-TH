@@ -11,7 +11,30 @@
   </a>
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SST-Yeoh-TH&layout=compact&theme=tokyonight)
+---
+
+### About me:
+
+- 👨‍🎓 I am current studying at the School of Science and Technology in Singapore
+- 🎸 Proudly in the guitar ensemble!
+- 💻 Currently developing react applications with CSS, HTML and Javascript!
+- 🔌 Worked with the SSTuino, a variant of C++, still using it!
+- 🕙 Worked with the Unity engine, which is in C#!
+
+<div id="Languages">
+<h1>  
+Languages I work with <3:
+</h1>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="200" height="200"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="200" height="200"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="200" height="200"/>&nbsp;
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title="CSS3" alt="CSS" width="200" height="200"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="JavaScript" alt="JavaScript" width="200" height="200"/>&nbsp;
+
+<h2>Languages I worked with in the past: </h2>  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="JavaScript" alt="JavaScript" width="200" height="200"/>&nbsp;
+</div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/?username=SST-Yeoh-TH&layout=compact&theme=tokyonight)
 
